@@ -12,13 +12,8 @@ const Proyectos = () => {
             <div className="flex flex-col md:flex-row md:items-center md:justify-between">
                 <h1 className="text-4xl md:text-6xl font-bold mb-6 md:mb-0 md:self-start text-black">{t('proyectos')}</h1>
                 <div className="mb-8 md:mb-0">
-                    <input 
-                        type="text" 
-                        placeholder={t('buscar_proyectos')} 
-                        className="px-4 py-2 border bg-lime-200 border-lime-500 rounded-lg focus:outline-none focus:border-blue-500"
-                    />
                 </div>
-            </div>
+             </div>
 
             <div className="flex flex-col justify-center text-gray-600 ml-6 mt-20 md:flex-row md:space-x-24">
 

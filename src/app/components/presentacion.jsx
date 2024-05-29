@@ -24,18 +24,13 @@ const Presentacion = () => {
       </div>
       <div className="container mx-auto flex justify-center mt-32">
         <div className="flex space-x-10 text-5xl">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-blue-800 hover:text-blue-500">
+          <a href="https://www.linkedin.com/in/jhosept-villota-33076a310/" target="_blank" rel="noopener noreferrer" className="text-blue-800 hover:text-blue-500">
             <FaLinkedin />
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-black hover:text-gray-300">
+          <a href="https://github.com/VillotaRealg4life" target="_blank" rel="noopener noreferrer" className="text-black hover:text-gray-300">
             <FaGithub />
           </a>
-          <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-400">
-            <FaFacebook />
-          </a>
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-300">
-            <FaTwitter />
-          </a>
+    
         </div>
       </div>
     </section>
